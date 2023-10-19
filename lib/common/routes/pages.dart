@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:chatty/common/middlewares/middlewares.dart';
 
 import 'package:get/get.dart';
 import '../../pages/frame/welcome/index.dart';
